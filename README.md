@@ -1,2 +1,2 @@
 # datasciencecoursera
-assignment repo for the course
+testan and learn for the course
